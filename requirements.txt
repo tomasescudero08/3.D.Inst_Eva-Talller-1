@@ -1,0 +1,1 @@
+No se requieren dependencias externas. Se recomienda Python >= 3.10.
